@@ -1,0 +1,45 @@
+h1{
+    background-color: blue;
+    font-style: italic;
+}
+p.para1 {
+    color: lightcyan;
+    font-size: 100%;
+    font-family: sans-serif;
+    background-image: url(20231217_094818.jpg);
+    line-height: 150%;
+}
+    #para2page1 {
+        color: greenyellow;
+        font-size: 100%;
+        font-family: sans-serif;
+        background-color: aqua;
+        line-height: 150%;
+}
+.passion {
+    border: 20px 20px 80px 20px;
+    background-color: red;
+    padding: 20px 20px 20px 80px blue;
+    border: solid 2px black;
+    margin: 0;
+}
+p.yellow {
+    background-image: url(lukan.jpeg);
+}
+.grey {
+    color: violet;
+    font-size: 100%;
+    font-family: sans-serif;
+    background-color: black;
+}
+form {
+    border: 1px solid rgb(121, 111, 136);
+}
+body {
+    background-image: url(kk.gif.jpg);
+    border: solid 2px black;
+    margin: 0;
+}
+.underline {
+    text-decoration: underline;
+}
