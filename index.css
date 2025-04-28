@@ -157,7 +157,7 @@ body{
 }
 .third {
     
-    font-size: 11px;
+    font-size: 9px;
     font-weight: 600;
     
 }
@@ -199,13 +199,13 @@ body{
         color: #717171;
       }
       .subtitle {
-        margin: 0px 0px 10px;
-        font-size: 16px;
+        margin: 5px 20px;
+        font-size: 12px;
         font-weight: 500;
-        padding: 10px 20px;
+        padding: 10px 17px;
       }
      .trial-btn {
-        font-size: 20px;
+        font-size: 15px;
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         font-style: normal;
